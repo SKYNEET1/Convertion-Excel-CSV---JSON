@@ -55,11 +55,3 @@ exports.fileUpload = async (req, res) => {
     }
 
 }
-
-// excell to json
-// array of data
-// each data
-// then validate
-
-// csb
-// foi
